@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Car-Price-Prediction"
 AUTHOR_USER_NAME = "viyas52"
-SRC_REPO = "Car-Price-Pred"
+SRC_REPO = "car_price_pred"
 AUTHOR_EMAIL = "vyas.illusionist@gmail.com"
 
 
