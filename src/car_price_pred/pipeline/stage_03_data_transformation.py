@@ -14,7 +14,7 @@ class DataTransformationTrainingPipeline:
             with open(Path("artifacts/data_validation/status.txt"), "r") as f:
                 status = f.read().split(" ")[-1]
 
-            if status == ":True":
+            if status == "True":
                 config = ConfigurationManager()
                 data_transformation_config = config.get_data_transformation_config()
                 data_transformation = DataTransformation(config=data_transformation_config)
