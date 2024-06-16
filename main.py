@@ -1,13 +1,27 @@
 from car_price_pred import logger
 from car_price_pred.pipeline.stage_01_data_ingestion import DataIngestiontrainingPipeline
+from car_price_pred.pipeline.stage_02_data_validation import DataValidationTraningPipeline
 
+
+  
 STAGE_NAME = "data ingestion stage"
 try:
     logger.info(f'>>>>>>> stage {STAGE_NAME} started <<<<<<<<')
-    obj = DataIngestiontrainingPipeline()
-    obj.main()
+    data_ingestion=DataIngestiontrainingPipeline()
+    data_ingestion.main()
     logger.info(f'>>>>>>>>>>>>> {STAGE_NAME} completed <<<<<<<<<<< \n\n x=========================x')
                     
 except Exception as e :
     logger.exception(e)
-    raise e   
+    raise e 
+
+STAGE_NAME = "data validation stage"
+try:
+    logger.info(f'>>>>>>> stage {STAGE_NAME} started <<<<<<<<')
+    data_validation=DataValidationTraningPipeline()
+    data_validation.main()
+    logger.info(f'>>>>>>>>>>>>> {STAGE_NAME} completed <<<<<<<<<<< \n\n x=========================x')
+                    
+except Exception as e :
+    logger.exception(e)
+    raise e 
