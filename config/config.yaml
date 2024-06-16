@@ -13,3 +13,6 @@ data_validation:
   STATUS_FILE: artifacts/data_validation/status.txt
   unzip_data_dir: artifacts/data_ingestion/car data.csv
   
+data_transformation:
+  root_dir: artifacts/data_transformation
+  data_path: artifacts/data_ingestion/car data.csv
