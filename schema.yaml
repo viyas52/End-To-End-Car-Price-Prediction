@@ -1,6 +1,7 @@
 COLUMNS:
   Car_Name: object
   Year: int64  
+  Selling_Price: float64
   Present_Price: float64 
   Kms_Driven: int64  
   Fuel_Type: object
