@@ -1,1 +1,12 @@
-key : value
+COLUMNS:
+  Car_Name: object
+  Year: int64  
+  Present_Price: float64 
+  Kms_Driven: int64  
+  Fuel_Type: object
+  Seller_Type: object
+  Transmission: object
+  Owner: int64  
+
+TARGET_COLUMN:
+  name: Selling_Price
