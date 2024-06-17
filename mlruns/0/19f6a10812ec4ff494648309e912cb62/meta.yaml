@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/My%20Workspace/proj_file/Car-Price-Prediction/mlruns/0/19f6a10812ec4ff494648309e912cb62/artifacts
+end_time: 1718626474661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19f6a10812ec4ff494648309e912cb62
+run_name: rogue-turtle-787
+run_uuid: 19f6a10812ec4ff494648309e912cb62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718626471129
+status: 3
+tags: []
+user_id: VIYAS
