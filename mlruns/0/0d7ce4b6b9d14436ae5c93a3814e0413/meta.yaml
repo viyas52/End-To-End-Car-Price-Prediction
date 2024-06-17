@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/My%20Workspace/proj_file/Car-Price-Prediction/mlruns/0/0d7ce4b6b9d14436ae5c93a3814e0413/artifacts
+end_time: 1718645665761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d7ce4b6b9d14436ae5c93a3814e0413
+run_name: debonair-skunk-221
+run_uuid: 0d7ce4b6b9d14436ae5c93a3814e0413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718645662284
+status: 3
+tags: []
+user_id: VIYAS
