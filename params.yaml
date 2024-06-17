@@ -1,1 +1,4 @@
-key : value
+Gradient_Boosting_Regressor: 
+  n_estimators: 50
+  alpha: 0.1
+  max_depth: 3
