@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/My%20Workspace/proj_file/Car-Price-Prediction/mlruns/0/ea159da449814943850672c3efd55e88/artifacts
+end_time: 1718709020922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea159da449814943850672c3efd55e88
+run_name: bemused-rook-216
+run_uuid: ea159da449814943850672c3efd55e88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718709015167
+status: 3
+tags: []
+user_id: VIYAS
