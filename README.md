@@ -11,11 +11,11 @@ https://github.com/viyas52/Car-Price-Prediction.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cars python=3.8 -y
+conda create -n ETECP python=3.8 -y
 ```
 
 ```bash
-conda activate cars
+conda activate ETECP
 ```
 
 
@@ -61,7 +61,7 @@ set MLFLOW_TRACKING_URI=https://dagshub.com/viyas52/Car-Price-Prediction.mlflow
 
 set MLFLOW_TRACKING_USERNAME=viyas52
 
-set MLFLOW_TRACKING_PASSWORD=869308651261bd5f086106a36caab87aa7d34342
+set MLFLOW_TRACKING_PASSWORD=396092e9fb18dff075743b0080074533456e33c1
 
 ```
 

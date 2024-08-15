@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/My%20Workspace/proj_file/Car-Price-Prediction/mlruns/0/ca0bd79ec6e74ce996fda58f39ec01ee/artifacts
+end_time: 1723740981690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca0bd79ec6e74ce996fda58f39ec01ee
+run_name: agreeable-roo-215
+run_uuid: ca0bd79ec6e74ce996fda58f39ec01ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723740977912
+status: 3
+tags: []
+user_id: VIYAS
